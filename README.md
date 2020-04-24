@@ -24,3 +24,19 @@ The second network is fund network. Similar to stock network, here nodes represe
 ## Our work
 
 * We write a crawler to fetch stocks data and mutual funds data from yahoo.
+* ...
+
+## How to use
+
+<table>
+  <tr>
+       <th>Script Name</th><th>API</th>
+  </tr>
+        <td>create_db.py</td><td>run "python create_db.py [csv/xslx]" to convert a csv or xslx file into database table 
+        <br></br> E.X. "python create_db.py funds_holding.csv"</td>
+  <tr>
+        <td>query.py</td><td>Edit String variable <i>query</i> in query.py. Then run script, the result query will be saved into a csv file</td>
+  </tr>
+  <tr>
+  </tr>
+</table>
