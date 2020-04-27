@@ -62,8 +62,18 @@ if __name__ == "__main__":
     edges = create_edges_from_table('stock_title1', 'stock_title2', df)
     graph = nx.Graph()
     graph.add_weighted_edges_from(edges)
+    nx.write_gml(graph,'co-investment_network.gml')
     
-    plt.figure(figsize=(16,16))
-    nx.draw(graph)
+    value_page_rank = nx.pagerank_scipy(graph)
+    value_page_rank = pd.Series(value_page_rank)
+    value_page_rank.sort_values(ascending=False, inplace=True)
+    value_page_rank.to_csv('page_rank_stock_csv')
+    
+    plt.figure(figsize=(100,100))
+    node_size = value_page_rank.copy()
+    #node_size[node_size<=0.001256] = 0
+    nx.draw(graph, node_size = node_size*80000,
+            with_labels=False, width = 0.3, alpha = 0.5)
+    plt.savefig('co-investment_network.png')
     
     
