@@ -45,7 +45,7 @@
 43,Enbridge Inc,33.06 - 57.32,"7,267,401",85.074B,1.05
 44,Kinder Morgan Inc Class P,9.42 - 22.58,"15,048,781",32.968B,1.04
 45,Cosan Logistica SA,10.73 - 24.14,"1,008,500",7.113B,0.85
-46,Vinci SA,54.76 - 107.35,"1,836,816",41.252B,0.80
+46,Vinci SA,54.76 - 107.35,"1,836,643",41.252B,0.80
 47,CCR SA,7.86 - 15.80,"6,738,900",24.947B,0.77
 48,Crown Castle International Corp,114.18 - 168.75,"1,272,598",65.184B,0.29
 49,American Tower Corp,174.32 - 260.43,"1,204,893",103.982B,0.40
@@ -127,244 +127,250 @@
 125,Intercontinental Exchange Inc,63.51 - 101.93,"3,018,642",48.692B,0.50
 126,IHS Markit Ltd,44.81 - 81.65,"1,915,606",26.049B,1.02
 127,Global Payments Inc,105.54 - 209.62,"916,479",48.546B,1.16
-128,PRA Health Sciences Inc,58.67 - 113.10,"383,264",5.488B,1.08
-129,Goldman Sachs Group Inc,130.85 - 250.46,"2,339,523",60.9B,1.44
-130,Progressive Corp,62.18 - 84.96,"2,669,987",44.588B,0.56
-131,ServiceNow Inc,213.99 - 362.95,"2,433,314",64.746B,1.30
-132,NVIDIA Corp,132.60 - 316.32,"6,922,219",173.275B,1.47
-133,New Oriental Education & Technology Group Inc ADR,80.18 - 142.38,"1,525,429",19.029B,1.34
-134,Rational AG,377.20 - 740.00,"50,158",4.967B,0.89
-135,SAP SE,82.13 - 129.60,"4,692,164",127.803B,0.96
-136,Roche Holding AG Dividend Right Cert.,75.72 - 194.68,"161,447",2.029B,1.87
-137,3M Co,114.04 - 187.72,"2,850,307",85.474B,1.01
-138,Philip Morris International Inc,56.01 - 90.17,"3,440,727",114.192B,0.92
-139,Teradyne Inc,40.92 - 81.57,"3,333,279",9.639B,1.40
-140,Marvell Technology Group Ltd,16.45 - 28.86,"9,282,724",16.879B,0.95
-141,West Pharmaceutical Services Inc,113.04 - 201.79,"352,378",14.105B,0.95
-142,Hexcel Corp,26.69 - 87.00,"1,322,395",2.656B,1.50
-143,ONE Gas Inc,63.67 - 96.97,"307,556",4.158B,0.40
-144,American Software Inc Class A,9.05 - 19.82,"122,639",512.144M,0.39
-145,Capital One Financial Corp,38.00 - 107.59,"5,781,058",28.024B,1.64
-146,Corning Inc,17.44 - 34.26,"3,311,739",15.666B,1.18
-147,Hostess Brands Inc Class A,9.32 - 14.86,"707,295",1.515B,0.71
-148,Netflix Inc,252.28 - 449.52,"6,553,535",183.845B,1.03
-149,Intel Corp,42.86 - 69.29,"21,194,802",243.328B,0.83
-150,Monolithic Power Systems Inc,114.84 - 208.81,"363,914",8.44B,1.22
-151,IDEX Corp,104.56 - 178.14,"351,381",11.406B,1.09
-152,Teledyne Technologies Inc,195.34 - 398.99,"129,455",11.709B,1.06
-153,FMC Corp,56.77 - 108.77,"443,296",11.637B,1.30
-154,Bristol-Myers Squibb Company,42.48 - 68.34,"11,015,797",136.019B,0.72
-155,Barrick Gold Corp,15.72 - 40.13,"4,983,568",67.334B,-0.02
-156,Humana Inc,208.25 - 392.58,"819,556",49.249B,0.78
-157,Cigna Corp,118.50 - 224.64,"1,083,082",69.38B,0.66
-158,Qualcomm Inc,58.00 - 96.17,"6,405,982",84.763B,N/A
-159,Taiwan Semiconductor Manufacturing Co Ltd,227.00 - 346.00,"54,890,000",7.896T,0.66
-160,GCI Liberty Inc A,26.51 - 79.06,"624,494",6.537B,1.29
-161,Cheniere Energy Inc,27.06 - 70.49,"3,151,196",10.902B,1.44
-162,Waste Connections Inc,100.55 - 139.26,"416,737",31.312B,0.73
-163,Intuit Inc,187.68 - 306.89,"712,353",68.279B,1.00
-164,Autodesk Inc,125.38 - 211.58,"1,488,295",38.17B,1.62
-165,Chevron Corp,51.60 - 127.00,"13,153,448",166.983B,1.18
-166,Boston Scientific Corp,24.10 - 46.62,"7,356,744",50.357B,0.93
-167,Strategic Education Inc,108.90 - 189.79,"104,305",3.336B,0.60
-168,Aerojet Rocketdyne Holdings Inc,34.01 - 57.27,"872,333",3.216B,0.54
-169,Domino's Pizza Inc,220.90 - 387.85,"785,519",13.977B,0.30
-170,Capgemini SE,51.78 - 120.90,"572,134",14.206B,1.11
-171,AstraZeneca PLC,"5,643.00 - 8,635.00","1,058,122",107.629B,0.22
-172,Canadian Pacific Railway Ltd,252.00 - 365.69,"348,030",42.304B,0.91
-173,Tencent Holdings Ltd ADR,40.04 - 54.20,"4,255,209",498.146B,1.01
-174,WNS (Holdings) Ltd ADR,34.26 - 75.86,"209,289",2.374B,1.49
-175,Skyline Champion Corp,10.82 - 37.03,"226,776",1.104B,N/A
-176,Conmed Corp,37.66 - 116.81,"772,979",1.884B,N/A
-177,J&J Snack Foods Corp,105.67 - 196.84,"90,393",2.281B,0.62
-178,Chegg Inc,25.89 - 48.22,"1,412,765",5.141B,0.87
-179,Invesco QQQ Trust,164.93 - 237.47,"35,773,866",83.48B,219.34
-180,Dine Brands Global Inc,14.16 - 104.47,"1,061,487",647.822M,1.29
-181,Innospec Inc,56.71 - 107.85,"65,604",1.76B,1.35
-182,Novanta Inc,66.44 - 99.79,"72,220",2.846B,1.33
-183,Denny's Corp,4.50 - 23.88,"823,415",612.333M,1.00
-184,WD-40 Co,151.16 - 211.68,"68,441",2.312B,0.07
-185,Stepan Co,69.33 - 105.87,"55,772",2.106B,1.08
-186,CSW Industrials Inc,50.13 - 81.06,"40,827",974.637M,1.04
-187,MGE Energy Inc,47.19 - 83.26,"55,130",2.152B,0.54
-188,Motorola Solutions Inc,120.77 - 187.49,"844,774",24.38B,0.72
-189,iShares Core MSCI EAFE ETF,42.29 - 66.12,"14,884,654",59.68B,53.44
-190,iShares MSCI Japan ETF,41.61 - 60.75,"6,894,296",8.89B,52.35
-191,iShares 20+ Year Treasury Bond ETF,123.37 - 179.70,"9,832,177",18.19B,167.47
-192,Activision Blizzard Inc,41.84 - 68.32,"3,431,067",49.905B,0.61
-193,General Electric Co,5.90 - 13.26,"94,091,543",55.985B,N/A
-194,Eli Lilly and Co,101.36 - 164.90,"2,431,104",147.03B,0.17
-195,Centene Corp,41.62 - 74.70,"2,201,597",37.267B,0.71
-196,FirstEnergy Corp,32.00 - 52.52,"3,237,165",22.125B,0.51
-197,L3Harris Technologies Inc,142.01 - 230.99,"761,980",41.084B,0.75
-198,Ameren Corp,58.74 - 87.66,"1,484,067",17.629B,0.35
-199,Zimmer Biomet Holdings Inc,74.37 - 161.11,"1,487,217",24.027B,1.30
-200,Alliant Energy Corp,37.66 - 60.28,"1,370,705",11.587B,0.45
-201,ASML Holding NV ADR,186.31 - 319.22,"653,617",121.278B,0.89
-202,Sanofi SA,67.65 - 95.06,"3,549,274",111.525B,0.44
-203,LVMH Moet Hennessy Louis Vuitton SE,278.70 - 439.05,"826,049",177.492B,0.87
-204,Exxon Mobil Corp,30.11 - 78.21,"35,136,166",182.501B,1.27
-205,BP PLC ADR,4.69 - 565.80,"37,953,684",60.36B,0.70
-206,Valero Energy Corp,31.00 - 101.99,"4,577,816",23.956B,1.76
-207,Occidental Petroleum Corp,9.00 - 60.73,"36,495,005",13.972B,1.75
-208,Pioneer Natural Resources Co,48.62 - 159.01,"1,870,513",13.67B,1.71
-209,EOG Resources Inc,27.00 - 96.25,"5,484,289",25.942B,1.84
-210,Baker Hughes Co Class A,1.18 - 25.99,"5,435,938",14.145B,1.46
-211,Marathon Petroleum Corp,15.26 - 69.65,"7,325,422",19.006B,2.08
-212,Altria Group Inc,30.95 - 54.00,"11,582,064",70.451B,N/A
-213,iShares Core S&P 500 ETF,220.28 - 340.63,"5,915,446",162.3B,291.58
-214,Ross Stores Inc,56.30 - 124.16,"1,990,071",31.615B,0.88
-215,Brown & Brown Inc,30.70 - 48.69,"1,347,930",9.936B,0.79
-216,CDW Corp,73.39 - 146.09,"706,784",15.196B,1.20
-217,Tesla Inc,176.99 - 968.99,"30,707,772",129.528B,0.73
-218,Seattle Genetics Inc,62.90 - 157.00,"2,405,732",25.35B,1.41
-219,Alnylam Pharmaceuticals Inc,65.81 - 147.41,"522,296",14.707B,1.93
-220,Sarepta Therapeutics Inc,72.05 - 158.80,"529,553",8.836B,1.97
-221,Neurocrine Biosciences Inc,72.14 - 119.65,"696,162",8.869B,1.31
-222,Fiserv Inc,73.50 - 125.05,"2,748,743",67.803B,0.88
-223,International Business Machines Corp,90.56 - 158.75,"4,357,780",108.207B,1.27
-224,Ascendis Pharma A/S ADR,90.06 - 145.59,"144,597",6.159B,0.90
-225,Biomarin Pharmaceutical Inc,62.88 - 99.60,"1,654,227",15.929B,1.04
-226,TC Energy Corp,47.05 - 76.58,"2,611,631",59.208B,0.88
-227,ASML Holding NV,186.31 - 319.22,"653,617",121.278B,0.89
-228,PT Bank Central Asia Tbk,15.35 - 26.91,"194,773",2.9B,20.16
-229,Professional Holding Corp A,12.32 - 20.63,"3,592",203.485M,0.72
-230,Cannae Holdings Inc Ordinary Shares,20.51 - 44.87,"129,074",2.421B,1.02
-231,Amerant Bancorp Inc Ordinary Shares - Class A,10.95 - 23.59,"26,842",480.127M,N/A
-232,Trex Co Inc,56.22 - 111.85,"1,508,479",5.349B,1.69
-233,Freshpet Inc,35.95 - 81.29,"309,521",2.923B,0.74
-234,Churchill Downs Inc,52.90 - 167.53,"368,853",3.711B,1.30
-235,argenx SE,103.75 - 169.50,"55,372",6.357B,0.96
-236,Assurant Inc,76.27 - 142.61,"433,182",6.112B,0.66
-237,Trimble Inc,20.01 - 46.67,"805,867",8.206B,1.80
-238,Sherwin-Williams Co,325.43 - 599.95,"239,445",47.84B,1.21
-239,Chubb Ltd,87.35 - 167.74,"2,307,718",45.853B,0.84
-240,Franklin Electric Co Inc,41.25 - 61.49,"170,731",2.27B,1.19
-241,Unilever PLC,"3,583.50 - 5,333.00","962,709",107.264B,0.45
-242,Sempra Energy,88.00 - 161.87,"1,927,126",35.067B,0.76
-243,Marsh & McLennan Companies Inc,74.33 - 119.88,"2,568,801",48.948B,N/A
-244,Aon PLC,143.93 - 238.19,"1,990,695",41.181B,0.93
-245,Booking Holdings Inc,"1,107.29 - 2,094.00","449,563",59.3B,1.07
-246,Deckers Outdoor Corp,78.70 - 203.19,"296,392",4.01B,0.92
-247,FTI Consulting Inc,79.74 - 144.10,"386,216",4.646B,0.25
-248,U.S. Bancorp,28.59 - 61.11,"6,318,063",53.153B,1.30
-249,Carvana Co Class A,22.16 - 115.23,"2,728,115",11.538B,2.20
-250,T-Mobile US Inc,63.50 - 101.35,"2,593,857",106.413B,0.28
-251,The AES Corp,8.11 - 21.23,"3,710,153",8.602B,1.19
-252,Electronic Arts Inc,85.69 - 118.69,"2,378,640",32.811B,0.88
-253,Fleetcor Technologies Inc,168.51 - 329.85,"631,391",19.504B,1.36
-254,Euronet Worldwide Inc,61.27 - 171.25,"870,992",4.734B,1.33
-255,ITT Inc,35.41 - 75.56,"808,322",4.433B,1.64
-256,Southern Co,41.96 - 71.10,"4,665,362",57.512B,N/A
-257,Atmos Energy Corp,77.92 - 121.08,"616,429",12.243B,0.37
-258,WEC Energy Group Inc,68.01 - 109.53,"1,566,095",27.903B,0.22
-259,Dominion Energy Inc,57.79 - 90.89,"2,677,935",63.361B,0.39
-260,L'Oreal SA,196.00 - 278.50,"900,066",148.377B,0.42
-261,Puma SE,40.00 - 84.30,"561,882",8.554B,0.62
-262,General Motors Co,14.33 - 41.90,"16,877,828",29.937B,1.51
-263,Five9 Inc,46.08 - 99.96,"1,034,088",5.693B,0.62
-264,Catalent Inc,31.04 - 69.56,"1,101,684",10.364B,1.49
-265,Grand Canyon Education Inc,57.89 - 132.72,"384,785",3.992B,0.53
-266,Cabot Microelectronics Corp,85.26 - 169.13,"218,703",3.461B,1.35
-267,Steelcase Inc Class A,7.02 - 23.02,"460,886",1.186B,1.70
-268,Darling Ingredients Inc,10.25 - 29.57,"508,967",3.212B,1.35
-269,FirstCash Inc,60.04 - 106.80,"324,857",2.846B,0.66
-270,DexCom Inc,113.63 - 350.97,"984,239",31.538B,0.57
-271,SAP SE ADR,82.13 - 129.60,"4,692,164",127.803B,0.96
-272,Texas Instruments Inc,93.09 - 135.70,"3,412,145",101.019B,1.13
-273,Seritage Growth Properties Class A,5.00 - 46.43,"1,005,740",502.834M,2.19
-274,Morgan Stanley,27.20 - 57.57,"11,873,592",60.501B,1.48
-275,Amerco Inc,222.34 - 426.50,"46,826",5.162B,0.74
-276,Royal Mail PLC,118.86 - 258.60,"3,026,655",1.597B,1.02
-277,LG Household & Health Care Ltd,"1,122,000.00 - 1,446,000.00","38,160",24.746T,0.53
-278,Largan Precision Co Ltd,"3,240.00 - 5,210.00","1,121,000",551.315B,0.80
-279,Itau Unibanco Holding SA Participating Preferred,20.00 - 38.24,"46,088,600",218.469B,1.15
-280,Schneider Electric SE,61.72 - 105.50,"2,031,216",45.928B,0.98
-281,GlaxoSmithKline PLC,"1,328.19 - 1,857.00","4,814,752",80.834B,N/A
-282,PerkinElmer Inc,62.91 - 102.46,"996,838",9.916B,1.31
-283,Housing Development Finance Corp Ltd,"1,473.10 - 2,499.65","200,558",3.319T,0.58
-284,Coca-Cola Co,36.27 - 60.13,"8,974,407",195.009B,0.60
-285,Northrop Grumman Corp,263.31 - 385.01,"572,070",54.63B,0.83
-286,Marriott International Inc Class A,46.56 - 153.39,"3,196,058",27.534B,1.62
-287,VF Corp,45.07 - 100.25,"2,106,619",21.879B,0.97
-288,Viad Corp,11.25 - 72.27,"225,087",449.596M,1.62
-289,ALLETE Inc,50.01 - 88.60,"309,141",2.881B,0.48
-290,Arcosa Inc,28.14 - 47.85,"541,750",1.701B,N/A
-291,IAA Inc Ordinary Shares,21.79 - 51.74,"1,619,568",4.97B,N/A
-292,Littelfuse Inc,103.63 - 197.64,"211,472",3.559B,1.18
-293,Goosehead Insurance Inc Class A,29.38 - 63.07,"357,252",2.092B,N/A
-294,RBC Bearings Inc,77.63 - 185.06,"146,537",3.019B,1.29
-295,BioSpecifics Technologies Corp,42.00 - 70.00,"27,952",407.964M,1.01
-296,iRadimed Corp,14.41 - 28.43,"70,649",236.129M,N/A
-297,Pure Cycle Corp,7.18 - 13.83,"89,391",234.695M,0.68
-298,Addus HomeCare Corp,43.13 - 104.56,"121,100",1.252B,0.28
-299,John B Sanfilippo & Son Inc,66.35 - 107.86,"78,689",948.111M,N/A
-300,Castle Biosciences Inc,15.26 - 39.77,"138,376",487.547M,N/A
-301,The York Water Co,33.06 - 49.85,"42,311",528.088M,0.29
-302,Coherus BioSciences Inc,10.86 - 23.91,"1,471,614",1.136B,2.34
-303,Luna Innovations Inc,3.90 - 9.32,"142,977",220.723M,1.09
-304,VICI Properties Inc Ordinary Shares,9.85 - 28.75,"5,135,589",7.76B,N/A
-305,TerraForm Power Inc Class A,11.40 - 21.58,"474,321",3.81B,0.62
-306,Kennedy-Wilson Holdings Inc,10.98 - 23.50,"425,681",1.962B,1.39
-307,SEI Investments Co,35.41 - 69.61,"813,067",7.364B,1.37
-308,Treehouse Foods Inc,33.50 - 60.38,"319,131",2.868B,0.53
-309,Nuance Communications Inc,13.00 - 23.58,"2,166,410",5.386B,0.87
-310,Citizens Financial Group Inc,14.12 - 41.29,"4,258,608",9.137B,1.84
-311,Aroundtown SA,2.8840 - 8.8820,"5,242,094",7.544B,1.11
-312,Airbus SE,8.56 - 52.78,"346,109",643.396M,1.79
-313,Lockheed Martin Corp,266.11 - 442.53,"703,394",107.715B,0.96
-314,DocuSign Inc,43.13 - 111.36,"1,416,674",18.957B,0.69
-315,LKQ Corp,13.31 - 36.63,"2,740,715",7.554B,1.56
-316,MKS Instruments Inc,66.87 - 122.30,"616,466",5.047B,1.47
-317,State Street Corporation,42.10 - 85.89,"1,730,009",20.794B,1.57
-318,Cable One Inc,"1,031.39 - 1,970.00","22,008",10.657B,0.36
-319,Molina Healthcare Inc,102.85 - 175.00,"1,228,676",10.542B,0.60
-320,Boston Beer Co Inc Class A,290.02 - 474.95,"146,324",5.614B,0.58
-321,Lattice Semiconductor Corp,11.06 - 24.20,"2,542,059",2.796B,1.14
-322,PNM Resources Inc,27.08 - 56.14,"644,546",3.111B,0.59
-323,Keurig Dr Pepper Inc,18.98 - 32.00,"1,381,895",36.443B,N/A
-324,NXP Semiconductors NV,58.41 - 139.59,"2,799,904",26.648B,1.48
-325,Naspers Ltd Class N,"184,380.00 - 298,898.00","1,236,332",1.271T,0.42
-326,Belden Inc,25.54 - 62.28,"465,522",1.491B,2.14
-327,Terreno Realty Corp,42.12 - 62.31,"363,299",3.634B,0.74
-328,Chesapeake Utilities Corp,69.47 - 101.29,"47,932",1.424B,0.30
-329,Home BancShares Inc,9.71 - 21.04,"980,684",2.403B,1.41
-330,HCA Healthcare Inc,58.38 - 151.97,"1,809,721",35.492B,1.24
-331,Old Dominion Freight Lines Inc,87.25 - 151.47,"910,702",17.57B,1.06
-332,GlaxoSmithKline PLC ADR,"1,328.19 - 1,857.00","4,814,752",80.834B,N/A
-333,Booz Allen Hamilton Holding Corp Class A,54.37 - 82.00,"853,270",10.159B,0.85
-334,Fifth Third Bancorp,11.10 - 31.64,"5,342,989",12.64B,1.67
-335,Cboe Global Markets Inc,72.01 - 127.93,"954,613",10.316B,0.46
-336,JBG SMITH Properties,21.88 - 42.36,"394,803",4.452B,0.81
-337,Armstrong World Industries Inc,62.03 - 111.46,"346,354",3.694B,1.48
-338,Bank Bradesco SA Participating Preferred,15.73 - 36.31,"69,507,900",161.917B,1.36
-339,B3 SA - Brasil Bolsa Balcao,29.26 - 53.55,"14,394,100",78.52B,0.96
-340,Wal - Mart de Mexico SAB de CV Class V,47.76 - 62.71,"19,072,206",1.006T,-0.03
-341,Credicorp Ltd,118.00 - 240.88,"113,512",11.131B,0.89
-342,Raia Drogasil SA,55.26 - 108.29,"2,153,300",34.565B,0.56
-343,Lojas Renner SA,26.32 - 60.90,"10,127,000",30.42B,0.94
-344,Banco Santander Chile ADR,11.43 - 30.47,"278,065",7.513B,0.37
-345,Trip.com Group Ltd ADR,20.10 - 44.28,"6,153,093",14.329B,1.75
-346,Zalando SE,27.33 - 49.09,"622,855",11.064B,1.31
-347,58.com Inc ADR repr Class A,37.92 - 72.90,"799,629",7.645B,1.48
-348,R1 RCM Inc,7.12 - 13.99,"696,158",1.123B,0.46
-349,NeoPhotonics Corp,3.26 - 9.99,"2,510,499",422.39M,N/A
-350,AtriCure Inc,22.57 - 44.51,"742,126",1.746B,0.55
-351,Onto Innovation Inc,20.32 - 42.50,"413,497",1.538B,N/A
-352,Cerus Corp,2.71 - 6.61,"1,815,615",921.427M,1.10
-353,Calix Inc,5.60 - 12.41,"1,018,939",677.335M,0.85
-354,Rogers Corp,75.72 - 194.68,"161,447",2.029B,1.87
-355,NiSource Inc,19.56 - 30.67,"1,425,911",9.334B,0.27
-356,Evergy Inc,42.01 - 76.57,"797,603",12.769B,0.50
-357,Encompass Health Corp,48.01 - 83.30,"537,191",6.346B,0.96
-358,Compass Diversified Holdings,10.78 - 26.37,"391,600",1.082B,N/A
-359,Columbus McKinnon Corp,19.20 - 43.09,"69,080",618.096M,1.69
-360,Patrick Industries Inc,16.70 - 64.38,"285,814",903.186M,2.20
-361,Ducommun Inc,16.27 - 57.84,"162,181",303.269M,1.22
-362,ACCO Brands Corp,3.51 - 11.38,"728,016",670.578M,1.96
-363,Universal Electronics Inc,29.50 - 60.00,"55,887",555.097M,1.27
-364,AMERISAFE Inc,48.02 - 80.65,"157,071",1.206B,N/A
-365,Zendesk Inc,50.23 - 94.89,"3,710,882",8.264B,N/A
-366,Technogym SpA,5.41 - 12.19,"1,251,440",1.353B,1.60
-367,OneSpaWorld Holdings Ltd,2.45 - 17.25,"2,016,494",364.272M,N/A
-368,Interpump Group SpA,19.38 - 32.90,"163,417",2.836B,1.20
+128,WEX Inc,71.12 - 236.52,"517,215",5.515B,1.86
+129,PRA Health Sciences Inc,58.67 - 113.10,"383,264",5.488B,1.08
+130,Goldman Sachs Group Inc,130.85 - 250.46,"2,339,523",60.9B,1.44
+131,Progressive Corp,62.18 - 84.96,"2,669,987",44.588B,0.56
+132,ServiceNow Inc,213.99 - 362.95,"2,433,314",64.746B,1.30
+133,NVIDIA Corp,132.60 - 316.32,"6,922,219",173.275B,1.47
+134,New Oriental Education & Technology Group Inc ADR,80.18 - 142.38,"1,525,429",19.029B,1.34
+135,Rational AG,377.20 - 740.00,"50,158",4.967B,0.89
+136,SAP SE,82.13 - 129.60,"4,692,164",127.803B,0.96
+137,Roche Holding AG Dividend Right Cert.,75.72 - 194.68,"161,447",2.029B,1.87
+138,3M Co,114.04 - 187.72,"2,850,307",85.474B,1.01
+139,Philip Morris International Inc,56.01 - 90.17,"3,440,727",114.192B,0.92
+140,Teradyne Inc,40.92 - 81.57,"3,333,279",9.639B,1.40
+141,Marvell Technology Group Ltd,16.45 - 28.86,"9,282,724",16.879B,0.95
+142,West Pharmaceutical Services Inc,113.04 - 201.79,"352,378",14.105B,0.95
+143,Hexcel Corp,26.69 - 87.00,"1,322,395",2.656B,1.50
+144,ONE Gas Inc,63.67 - 96.97,"307,556",4.158B,0.40
+145,American Software Inc Class A,9.05 - 19.82,"122,639",512.144M,0.39
+146,Berkshire Hathaway Inc A,undefined - undefined,N/A,N/A,N/A
+147,Capital One Financial Corp,38.00 - 107.59,"5,781,058",28.024B,1.64
+148,Corning Inc,17.44 - 34.26,"3,311,739",15.666B,1.18
+149,Hostess Brands Inc Class A,9.32 - 14.86,"707,295",1.515B,0.71
+150,Netflix Inc,252.28 - 449.52,"6,553,535",183.845B,1.03
+151,Intel Corp,42.86 - 69.29,"21,194,802",243.328B,0.83
+152,Monolithic Power Systems Inc,114.84 - 208.81,"363,914",8.44B,1.22
+153,IDEX Corp,104.56 - 178.14,"351,381",11.406B,1.09
+154,Teledyne Technologies Inc,195.34 - 398.99,"129,455",11.709B,1.06
+155,FMC Corp,56.77 - 108.77,"443,296",11.637B,1.30
+156,Bristol-Myers Squibb Company,42.48 - 68.34,"11,015,797",136.019B,0.72
+157,Barrick Gold Corp,15.72 - 40.13,"4,983,568",67.334B,-0.02
+158,Humana Inc,208.25 - 392.58,"819,556",49.249B,0.78
+159,Cigna Corp,118.50 - 224.64,"1,083,082",69.38B,0.66
+160,Qualcomm Inc,58.00 - 96.17,"6,405,982",84.763B,N/A
+161,Taiwan Semiconductor Manufacturing Co Ltd,227.00 - 346.00,"54,890,000",7.896T,0.66
+162,GCI Liberty Inc A,26.51 - 79.06,"624,494",6.537B,1.29
+163,Cheniere Energy Inc,27.06 - 70.49,"3,151,196",10.902B,1.44
+164,Waste Connections Inc,100.55 - 139.26,"416,737",31.04B,0.73
+165,Intuit Inc,187.68 - 306.89,"712,353",68.279B,1.00
+166,Autodesk Inc,125.38 - 211.58,"1,488,295",38.17B,1.62
+167,Chevron Corp,51.60 - 127.00,"13,153,448",166.983B,1.18
+168,Boston Scientific Corp,24.10 - 46.62,"7,356,744",50.357B,0.93
+169,Strategic Education Inc,108.90 - 189.79,"104,305",3.336B,0.60
+170,Aerojet Rocketdyne Holdings Inc,34.01 - 57.27,"872,333",3.216B,0.54
+171,Domino's Pizza Inc,220.90 - 387.85,"785,519",13.977B,0.30
+172,Capgemini SE,51.78 - 120.90,"572,134",14.206B,1.11
+173,AstraZeneca PLC,"5,643.00 - 8,635.00","1,058,122",107.629B,0.22
+174,Canadian Pacific Railway Ltd,252.00 - 365.69,"348,030",42.304B,0.91
+175,Tencent Holdings Ltd ADR,40.04 - 54.20,"4,255,209",498.146B,1.01
+176,WNS (Holdings) Ltd ADR,34.26 - 75.86,"209,289",2.374B,1.49
+177,Skyline Champion Corp,10.82 - 37.03,"226,776",1.104B,N/A
+178,Conmed Corp,37.66 - 116.81,"772,979",1.884B,N/A
+179,J&J Snack Foods Corp,105.67 - 196.84,"90,393",2.281B,0.62
+180,Chegg Inc,25.89 - 48.22,"1,412,765",5.141B,0.87
+181,Invesco QQQ Trust,164.93 - 237.47,"35,773,866",83.48B,219.34
+182,Dine Brands Global Inc,14.16 - 104.47,"1,061,487",647.822M,1.29
+183,Innospec Inc,56.71 - 107.85,"65,604",1.76B,1.35
+184,Novanta Inc,66.44 - 99.79,"72,220",2.846B,1.33
+185,Denny's Corp,4.50 - 23.88,"823,415",612.333M,1.00
+186,WD-40 Co,151.16 - 211.68,"68,441",2.312B,0.07
+187,Stepan Co,69.33 - 105.87,"55,772",2.106B,1.08
+188,CSW Industrials Inc,50.13 - 81.06,"40,827",974.637M,1.04
+189,MGE Energy Inc,47.19 - 83.26,"55,130",2.152B,0.54
+190,Motorola Solutions Inc,120.77 - 187.49,"844,774",24.38B,0.72
+191,iShares Core MSCI EAFE ETF,42.29 - 66.12,"14,884,654",59.68B,53.44
+192,iShares MSCI Japan ETF,41.61 - 60.75,"6,894,296",8.89B,52.35
+193,iShares 20+ Year Treasury Bond ETF,123.37 - 179.70,"9,832,177",18.19B,167.47
+194,Activision Blizzard Inc,41.84 - 68.32,"3,431,067",49.905B,0.61
+195,General Electric Co,5.90 - 13.26,"94,091,543",55.985B,N/A
+196,Eli Lilly and Co,101.36 - 164.90,"2,431,104",147.03B,0.17
+197,Centene Corp,41.62 - 74.70,"2,201,597",37.267B,0.71
+198,FirstEnergy Corp,32.00 - 52.52,"3,237,165",22.125B,0.51
+199,L3Harris Technologies Inc,142.01 - 230.99,"761,980",41.084B,0.75
+200,Ameren Corp,58.74 - 87.66,"1,484,067",17.629B,0.35
+201,Zimmer Biomet Holdings Inc,74.37 - 161.11,"1,487,217",24.027B,1.30
+202,Alliant Energy Corp,37.66 - 60.28,"1,370,705",11.587B,0.45
+203,ASML Holding NV ADR,186.31 - 319.22,"653,617",121.278B,0.89
+204,Sanofi SA,67.65 - 95.06,"3,548,102",111.525B,0.44
+205,LVMH Moet Hennessy Louis Vuitton SE,278.70 - 439.05,"825,906",177.492B,0.87
+206,Exxon Mobil Corp,30.11 - 78.21,"35,136,166",182.501B,1.27
+207,BP PLC ADR,4.69 - 565.80,"37,953,684",60.36B,0.70
+208,Valero Energy Corp,31.00 - 101.99,"4,577,816",23.956B,1.76
+209,Occidental Petroleum Corp,9.00 - 60.73,"36,495,005",13.972B,1.75
+210,Pioneer Natural Resources Co,48.62 - 159.01,"1,870,513",13.67B,1.71
+211,EOG Resources Inc,27.00 - 96.25,"5,484,289",25.942B,1.84
+212,Baker Hughes Co Class A,1.18 - 25.99,"5,435,938",14.145B,1.46
+213,Marathon Petroleum Corp,15.26 - 69.65,"7,325,422",19.006B,2.08
+214,Altria Group Inc,30.95 - 54.00,"11,582,064",70.451B,N/A
+215,iShares Core S&P 500 ETF,220.28 - 340.63,"5,915,446",162.3B,291.58
+216,Ross Stores Inc,56.30 - 124.16,"1,990,071",31.615B,0.88
+217,Brown & Brown Inc,30.70 - 48.69,"1,347,930",9.936B,0.79
+218,CDW Corp,73.39 - 146.09,"706,784",15.196B,1.20
+219,Illinois Tool Works Inc,115.94 - 190.85,"1,906,800",50.628B,1.18
+220,Air Products & Chemicals Inc,167.43 - 257.01,"801,526",49.085B,0.86
+221,Graco Inc,38.43 - 56.99,"734,736",7.46B,0.77
+222,Tesla Inc,176.99 - 968.99,"30,707,772",129.528B,0.73
+223,Seattle Genetics Inc,62.90 - 157.00,"2,405,732",25.35B,1.41
+224,Alnylam Pharmaceuticals Inc,65.81 - 147.41,"522,296",14.707B,1.93
+225,Sarepta Therapeutics Inc,72.05 - 158.80,"529,553",8.836B,1.97
+226,Neurocrine Biosciences Inc,72.14 - 119.65,"696,162",8.869B,1.31
+227,Fiserv Inc,73.50 - 125.05,"2,748,743",67.803B,0.88
+228,International Business Machines Corp,90.56 - 158.75,"4,357,780",108.207B,1.27
+229,Ascendis Pharma A/S ADR,90.06 - 145.59,"144,597",6.159B,0.90
+230,Biomarin Pharmaceutical Inc,62.88 - 99.60,"1,654,227",15.929B,1.04
+231,TC Energy Corp,47.05 - 76.58,"2,611,631",59.208B,0.88
+232,ASML Holding NV,186.31 - 319.22,"653,617",121.278B,0.89
+233,PT Bank Central Asia Tbk,15.35 - 26.91,"194,773",2.9B,20.16
+234,Professional Holding Corp A,12.32 - 20.63,"3,592",203.485M,0.72
+235,Cannae Holdings Inc Ordinary Shares,20.51 - 44.87,"129,074",2.421B,1.02
+236,Amerant Bancorp Inc Ordinary Shares - Class A,10.95 - 23.59,"26,842",480.127M,N/A
+237,Trex Co Inc,56.22 - 111.85,"1,508,479",5.349B,1.69
+238,Freshpet Inc,35.95 - 81.29,"309,521",2.923B,0.74
+239,Churchill Downs Inc,52.90 - 167.53,"368,853",3.711B,1.30
+240,argenx SE,103.75 - 169.50,"55,372",6.357B,0.96
+241,Assurant Inc,76.27 - 142.61,"433,182",6.112B,0.66
+242,Trimble Inc,20.01 - 46.67,"805,867",8.206B,1.80
+243,Sherwin-Williams Co,325.43 - 599.95,"239,445",47.84B,1.21
+244,Chubb Ltd,87.35 - 167.74,"2,307,718",45.853B,0.84
+245,Franklin Electric Co Inc,41.25 - 61.49,"170,731",2.27B,1.19
+246,Unilever PLC,"3,583.50 - 5,333.00","962,709",107.264B,0.45
+247,Sempra Energy,88.00 - 161.87,"1,927,126",35.067B,0.76
+248,Marsh & McLennan Companies Inc,74.33 - 119.88,"2,568,801",48.948B,N/A
+249,Aon PLC,143.93 - 238.19,"1,990,695",41.181B,0.93
+250,Booking Holdings Inc,"1,107.29 - 2,094.00","449,563",59.3B,1.07
+251,Deckers Outdoor Corp,78.70 - 203.19,"296,392",4.01B,0.92
+252,FTI Consulting Inc,79.74 - 144.10,"386,216",4.646B,0.25
+253,U.S. Bancorp,28.59 - 61.11,"6,318,063",53.153B,1.30
+254,Carvana Co Class A,22.16 - 115.23,"2,728,115",11.538B,2.20
+255,T-Mobile US Inc,63.50 - 101.35,"2,593,857",106.413B,0.28
+256,The AES Corp,8.11 - 21.23,"3,710,153",8.602B,1.19
+257,Electronic Arts Inc,85.69 - 118.69,"2,378,640",32.811B,0.88
+258,Fleetcor Technologies Inc,168.51 - 329.85,"631,391",19.504B,1.36
+259,Euronet Worldwide Inc,61.27 - 171.25,"870,992",4.734B,1.33
+260,ITT Inc,35.41 - 75.56,"808,322",4.433B,1.64
+261,Southern Co,41.96 - 71.10,"4,665,362",57.512B,N/A
+262,Atmos Energy Corp,77.92 - 121.08,"616,429",12.243B,0.37
+263,WEC Energy Group Inc,68.01 - 109.53,"1,566,095",27.903B,0.22
+264,Dominion Energy Inc,57.79 - 90.89,"2,677,935",63.361B,0.39
+265,L'Oreal SA,196.00 - 278.50,"900,022",148.377B,0.42
+266,Puma SE,40.00 - 84.30,"561,882",8.554B,0.62
+267,General Motors Co,14.33 - 41.90,"16,877,828",29.937B,1.51
+268,Five9 Inc,46.08 - 99.96,"1,034,088",5.693B,0.62
+269,Catalent Inc,31.04 - 69.56,"1,101,684",10.364B,1.49
+270,Grand Canyon Education Inc,57.89 - 132.72,"384,785",3.992B,0.53
+271,Cabot Microelectronics Corp,85.26 - 169.13,"218,703",3.461B,1.35
+272,Steelcase Inc Class A,7.02 - 23.02,"460,886",1.186B,1.70
+273,Darling Ingredients Inc,10.25 - 29.57,"508,967",3.212B,1.35
+274,FirstCash Inc,60.04 - 106.80,"324,857",2.846B,0.66
+275,DexCom Inc,113.63 - 350.97,"984,239",31.538B,0.57
+276,SAP SE ADR,82.13 - 129.60,"4,692,164",127.803B,0.96
+277,Texas Instruments Inc,93.09 - 135.70,"3,412,145",101.019B,1.13
+278,Seritage Growth Properties Class A,5.00 - 46.43,"1,005,740",502.834M,2.19
+279,Morgan Stanley,27.20 - 57.57,"11,873,592",60.501B,1.48
+280,Amerco Inc,222.34 - 426.50,"46,826",5.162B,0.74
+281,Royal Mail PLC,118.86 - 258.60,"3,026,655",1.597B,1.02
+282,LG Household & Health Care Ltd,"1,122,000.00 - 1,446,000.00","38,160",24.746T,0.53
+283,Largan Precision Co Ltd,"3,240.00 - 5,210.00","1,121,000",551.315B,0.80
+284,Itau Unibanco Holding SA Participating Preferred,20.00 - 38.24,"46,088,600",218.469B,1.15
+285,Schneider Electric SE,61.72 - 105.50,"2,031,083",45.928B,0.98
+286,GlaxoSmithKline PLC,"1,328.19 - 1,857.00","4,814,752",80.834B,N/A
+287,PerkinElmer Inc,62.91 - 102.46,"996,838",9.916B,1.31
+288,Housing Development Finance Corp Ltd,"1,473.10 - 2,499.65","200,558",3.319T,0.58
+289,Coca-Cola Co,36.27 - 60.13,"8,974,407",195.009B,0.60
+290,Northrop Grumman Corp,263.31 - 385.01,"572,070",54.63B,0.83
+291,Marriott International Inc Class A,46.56 - 153.39,"3,196,058",27.534B,1.62
+292,VF Corp,45.07 - 100.25,"2,106,619",21.879B,0.97
+293,Viad Corp,11.25 - 72.27,"225,087",449.596M,1.62
+294,ALLETE Inc,50.01 - 88.60,"309,141",2.881B,0.48
+295,Arcosa Inc,28.14 - 47.85,"541,750",1.701B,N/A
+296,IAA Inc Ordinary Shares,21.79 - 51.74,"1,619,568",4.97B,N/A
+297,Littelfuse Inc,103.63 - 197.64,"211,472",3.559B,1.18
+298,Goosehead Insurance Inc Class A,29.38 - 63.07,"357,252",2.092B,N/A
+299,RBC Bearings Inc,77.63 - 185.06,"146,537",3.019B,1.29
+300,BioSpecifics Technologies Corp,42.00 - 70.00,"27,952",407.964M,1.01
+301,iRadimed Corp,14.41 - 28.43,"70,649",236.129M,N/A
+302,Pure Cycle Corp,7.18 - 13.83,"89,391",234.695M,0.68
+303,Addus HomeCare Corp,43.13 - 104.56,"121,100",1.252B,0.28
+304,John B Sanfilippo & Son Inc,66.35 - 107.86,"78,689",948.111M,N/A
+305,Castle Biosciences Inc,15.26 - 39.77,"138,376",487.547M,N/A
+306,The York Water Co,33.06 - 49.85,"42,311",528.088M,0.29
+307,Coherus BioSciences Inc,10.86 - 23.91,"1,471,614",1.136B,2.34
+308,Luna Innovations Inc,3.90 - 9.32,"142,977",220.723M,1.09
+309,VICI Properties Inc Ordinary Shares,9.85 - 28.75,"5,135,589",7.76B,N/A
+310,TerraForm Power Inc Class A,11.40 - 21.58,"474,321",3.81B,0.62
+311,Kennedy-Wilson Holdings Inc,10.98 - 23.50,"425,681",1.962B,1.39
+312,SEI Investments Co,35.41 - 69.61,"813,067",7.364B,1.37
+313,Treehouse Foods Inc,33.50 - 60.38,"319,131",2.868B,0.53
+314,Nuance Communications Inc,13.00 - 23.58,"2,166,410",5.386B,0.87
+315,Citizens Financial Group Inc,14.12 - 41.29,"4,258,608",9.137B,1.84
+316,Aroundtown SA,2.8840 - 8.8820,"5,242,094",7.544B,1.11
+317,Airbus SE,8.56 - 52.78,"346,109",643.396M,1.79
+318,Axis Bank Ltd,440.50 - 534.05,"1,192,978",1.141T,N/A
+319,Lockheed Martin Corp,266.11 - 442.53,"703,394",107.715B,0.96
+320,DocuSign Inc,43.13 - 111.36,"1,416,674",18.957B,0.69
+321,LKQ Corp,13.31 - 36.63,"2,740,715",7.554B,1.56
+322,MKS Instruments Inc,66.87 - 122.30,"616,466",5.047B,1.47
+323,State Street Corporation,42.10 - 85.89,"1,730,009",20.794B,1.57
+324,Cable One Inc,"1,031.39 - 1,970.00","22,008",10.657B,0.36
+325,Molina Healthcare Inc,102.85 - 175.00,"1,228,676",10.542B,0.60
+326,Boston Beer Co Inc Class A,290.02 - 474.95,"146,324",5.614B,0.58
+327,Lattice Semiconductor Corp,11.06 - 24.20,"2,542,059",2.796B,1.14
+328,PNM Resources Inc,27.08 - 56.14,"644,546",3.111B,0.59
+329,Keurig Dr Pepper Inc,18.98 - 32.00,"1,381,895",36.443B,N/A
+330,NXP Semiconductors NV,58.41 - 139.59,"2,799,904",26.648B,1.48
+331,Naspers Ltd Class N,"184,380.00 - 298,898.00","1,236,332",1.271T,0.42
+332,Belden Inc,25.54 - 62.28,"465,522",1.491B,2.14
+333,Terreno Realty Corp,42.12 - 62.31,"363,299",3.634B,0.74
+334,Chesapeake Utilities Corp,69.47 - 101.29,"47,932",1.424B,0.30
+335,Home BancShares Inc,9.71 - 21.04,"980,684",2.403B,1.41
+336,HCA Healthcare Inc,58.38 - 151.97,"1,809,721",35.492B,1.24
+337,Old Dominion Freight Lines Inc,87.25 - 151.47,"910,702",17.57B,1.06
+338,GlaxoSmithKline PLC ADR,"1,328.19 - 1,857.00","4,814,752",80.834B,N/A
+339,Booz Allen Hamilton Holding Corp Class A,54.37 - 82.00,"853,270",10.159B,0.85
+340,Fifth Third Bancorp,11.10 - 31.64,"5,342,989",12.64B,1.67
+341,Cboe Global Markets Inc,72.01 - 127.93,"954,613",10.316B,0.46
+342,JBG SMITH Properties,21.88 - 42.36,"394,803",4.452B,0.81
+343,Armstrong World Industries Inc,62.03 - 111.46,"346,354",3.694B,1.48
+344,Bank Bradesco SA Participating Preferred,15.73 - 36.31,"69,507,900",161.917B,1.36
+345,B3 SA - Brasil Bolsa Balcao,29.26 - 53.55,"14,394,100",78.52B,0.96
+346,Wal - Mart de Mexico SAB de CV Class V,47.76 - 62.71,"19,072,206",1.006T,-0.03
+347,Credicorp Ltd,118.00 - 240.88,"113,512",11.131B,0.89
+348,Raia Drogasil SA,55.26 - 108.29,"2,153,300",34.565B,0.56
+349,Lojas Renner SA,26.32 - 60.90,"10,127,000",30.42B,0.94
+350,Banco Santander Chile ADR,11.43 - 30.47,"278,065",7.513B,0.37
+351,Trip.com Group Ltd ADR,20.10 - 44.28,"6,153,093",14.329B,1.75
+352,Zalando SE,27.33 - 49.09,"622,855",11.064B,1.31
+353,58.com Inc ADR repr Class A,37.92 - 72.90,"799,629",7.645B,1.48
+354,R1 RCM Inc,7.12 - 13.99,"696,158",1.123B,0.46
+355,NeoPhotonics Corp,3.26 - 9.99,"2,510,499",422.39M,N/A
+356,AtriCure Inc,22.57 - 44.51,"742,126",1.746B,0.55
+357,Onto Innovation Inc,20.32 - 42.50,"413,497",1.538B,N/A
+358,Cerus Corp,2.71 - 6.61,"1,815,615",921.427M,1.10
+359,Calix Inc,5.60 - 12.41,"1,018,939",677.335M,0.85
+360,Rogers Corp,75.72 - 194.68,"161,447",2.029B,1.87
+361,NiSource Inc,19.56 - 30.67,"1,425,911",9.334B,0.27
+362,Evergy Inc,42.01 - 76.57,"797,603",12.769B,0.50
+363,Encompass Health Corp,48.01 - 83.30,"537,191",6.346B,0.96
+364,Compass Diversified Holdings,10.78 - 26.37,"391,600",1.082B,N/A
+365,Columbus McKinnon Corp,19.20 - 43.09,"69,080",618.096M,1.69
+366,Patrick Industries Inc,16.70 - 64.38,"285,814",903.186M,2.20
+367,Ducommun Inc,16.27 - 57.84,"162,181",303.269M,1.22
+368,ACCO Brands Corp,3.51 - 11.38,"728,016",670.578M,1.96
+369,Universal Electronics Inc,29.50 - 60.00,"55,887",555.097M,1.27
+370,AMERISAFE Inc,48.02 - 80.65,"157,071",1.206B,N/A
+371,Zendesk Inc,50.23 - 94.89,"3,710,882",8.264B,N/A
+372,Technogym SpA,5.41 - 12.19,"1,251,440",1.353B,1.60
+373,OneSpaWorld Holdings Ltd,2.45 - 17.25,"2,016,494",364.272M,N/A
+374,Interpump Group SpA,19.38 - 32.90,"163,417",2.836B,1.20
